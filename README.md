@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 # test_flutter
 
 A new Flutter project.
+=======
+# todo_app
+
+First time trying Flutter
+>>>>>>> d2f8c99d6929b41e3f137c15d1ab07bcda7a1a51
 
 ## Getting Started
 
