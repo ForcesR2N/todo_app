@@ -1,10 +1,6 @@
-<<<<<<< HEAD
-name: test_flutter
-description: "A new Flutter project."
-=======
 name: todo_app
 description: "First time trying Flutter"
->>>>>>> d2f8c99d6929b41e3f137c15d1ab07bcda7a1a51
+
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev

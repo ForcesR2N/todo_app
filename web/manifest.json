@@ -1,20 +1,14 @@
 {
-<<<<<<< HEAD
     "name": "test_flutter",
     "short_name": "test_flutter",
-=======
     "name": "todo_app",
     "short_name": "todo_app",
->>>>>>> d2f8c99d6929b41e3f137c15d1ab07bcda7a1a51
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-<<<<<<< HEAD
     "description": "A new Flutter project.",
-=======
     "description": "First time trying Flutter",
->>>>>>> d2f8c99d6929b41e3f137c15d1ab07bcda7a1a51
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [

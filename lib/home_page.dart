@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import '../utils/todo_body.dart';
 
 class HomePage extends StatefulWidget{
   const HomePage ({super.key});
@@ -14,12 +15,13 @@ class _HomePageState extends State<HomePage>{
       backgroundColor: Colors.lightBlueAccent[200],
       appBar: AppBar(
         title: Text('Kill yourself'),
+        elevation: 0,
       ),
       body: ListView(
         children: [
+          TodoBody(),
         ],
       ),
     );
   }
-
 }
